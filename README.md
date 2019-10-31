@@ -203,7 +203,7 @@ $ python cocacola.py --contig_file data/SpeciesMock/input/SpeciesMock_Contigs_cu
 ----------
 Contacts and bug reports
 ------------------------
-Please send bug reports, comments, or questions to 
+Please send bug reports, comments, or questions to:-
 
 Yang Lu: [ylu465@usc.edu](mailto:ylu465@usc.edu)
 
