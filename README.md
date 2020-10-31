@@ -131,10 +131,10 @@ $ conda install numpy scipy pandas scikit-learn cvxopt
 Download
 ---------------
 
-> 1. Download the python version of COCACOLA from [here](https://www.dropbox.com/s/ciebt2y5h7pb9r2/COCACOLA-python.zip?dl=0)
-> 2. Unzip it
-> 3. Change the working directory to the unzipped folder
-> 4. Notice that if you are not using Linux/Unix, you need to re-compile the FragGeneScan and hmmer under the auxiliary folder, which is used to estimate the initial bin number by single-copy genes (credits owe to MaxBin2.0 [5]).
+-> 1. Download the python version of COCACOLA from [here](https://www.dropbox.com/s/ciebt2y5h7pb9r2/COCACOLA-python.zip?dl=0)
+-> 2. Unzip it
+-> 3. Change the working directory to the unzipped folder
+-> 4. Notice that if you are not using Linux/Unix, you need to re-compile the FragGeneScan and hmmer under the auxiliary folder, which is used to estimate the initial bin number by single-copy genes (credits owe to MaxBin2.0 [5]).
 
 ----------
 Usage
@@ -148,7 +148,7 @@ The command can be viewed by typing ``python cocacola.py -h`` on the command lin
                    [--edge_list EDGE_LIST] [--output OUTPUT]
                    [--clusters CLUSTERS]
 
-> - optional arguments:
+> - optional arguments:-
 
 	-h, --help: show this help message and exit. 
 				
